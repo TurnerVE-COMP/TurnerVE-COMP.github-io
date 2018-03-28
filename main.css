@@ -1,4 +1,13 @@
-body {
-	background-image: url("./images/bg.jpg");
+.wrapper-1 {
+	background-image: url("./images/bg1.jpg");
 	background-size: cover;
+}
+
+.wrapper-2 {
+	background-image: url("./images/bg2.jpg");
+	background-size: cover;
+}
+
+.divider-1 {
+	background-color: rbga(0, 0, 0, 0.5);
 }
