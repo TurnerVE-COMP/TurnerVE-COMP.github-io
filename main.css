@@ -88,6 +88,12 @@
 	width: 50%;
 }
 
+.footer {
+	height: 200px;
+	color: white;
+	background: black;
+}
+
 /*font*/
 
 .innovation {
