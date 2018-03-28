@@ -1,13 +1,23 @@
 .wrapper-1 {
 	background-image: url("./images/bg1.jpg");
-	background-size: cover;
+    min-height: 1000px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .wrapper-2 {
 	background-image: url("./images/bg2.jpg");
-	background-size: cover;
+    min-height: 1000px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .divider-1 {
-	background-color: rbga(0, 0, 0, 0.5);
+	background: rgba(0, 0, 0, 0.5);
+	height: 100px;
+	color: white;
 }
